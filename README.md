@@ -1,4 +1,4 @@
-Repository for the paper "“Do users fall for real adversarial phishing?” Investigating the human response to evasive webpages", published at eCrime'23.
+Repository for the paper "“Do users fall for real adversarial phishing?” Investigating the human response to evasive webpages", published at [eCrime'23](https://apwg.org/event/ecrime2023/) (and which was the runner-up for the Best Paper Award).
 
 If you use any of our resources, you are kindly invited to cite our paper:
 
