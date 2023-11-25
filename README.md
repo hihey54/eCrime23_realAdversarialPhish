@@ -16,4 +16,4 @@ This repository contains one folder, "screenshots", containing the 20 screenshot
 
 ### Remark
 
-This paper stems from the MSc. Thesis authored by the first author of the paper: Ajka Draganovic. The thesis includes more detailed analysis and results than the ones shown in the paper. If anyone is interested in these additional perspectives, we solicit them to contact the Ajka Draganovic (by emailing her at: ajka.draganovic@gmail.com).
+This paper stems from the MSc. Thesis authored by the first author of the paper: Ajka Draganovic. The thesis includes more detailed analysis and results than the ones shown in the paper. If anyone is interested in these additional perspectives, we solicit them to contact the Ajka Draganovic (by emailing her at: ajkadraganovic@hotmail.com).
